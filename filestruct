@@ -1,0 +1,9 @@
+- DriverProject
+  - Driver
+    - Driver.cpp
+    - Driver.vcxproj
+    - (Other driver-related files)
+  - UserApp
+    - GFXTest64Finder.cpp
+    - GFXTest64Finder.vcxproj
+    - (Other user-mode application files)
